@@ -1,0 +1,1 @@
+# Новые типы. Сумма покупки. Список покупок (задача со звёздочкой) [![Build status](https://ci.appveyor.com/api/projects/status/uat8iagaims4jti5?svg=true)](https://ci.appveyor.com/project/kos4/ajs-homeworks-typescript)
